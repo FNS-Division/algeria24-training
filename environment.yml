@@ -22,6 +22,10 @@ dependencies:
   - python-dotenv==1.0.1
   - pip
   - pip:
+    - pyogrio
+    - pyarrow
+    - fastparquet
+    - s3fs
     - ipywidgets
     - pycountry==24.6.1
     - python-srtm==0.5.0
