@@ -5,6 +5,8 @@
 *.png
 *.DS_Store
 *.qgz
+*.zip
+*.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
