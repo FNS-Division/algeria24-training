@@ -5,6 +5,7 @@
 *.png
 *.DS_Store
 *.qgz
+*.tif
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
