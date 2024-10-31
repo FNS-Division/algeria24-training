@@ -6,6 +6,7 @@
 *.DS_Store
 *.qgz
 *.tif
+*.zip
 training-backup/
 
 # Byte-compiled / optimized / DLL files
