@@ -6,6 +6,7 @@
 *.DS_Store
 *.qgz
 *.tif
+training-backup/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
