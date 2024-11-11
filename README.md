@@ -24,7 +24,10 @@ This repository contains Jupyter notebooks and supporting materials for analyzin
 
 ## Pre-requisites
 
-To run these notebooks, you'll need:
+To run these notebooks on **Google Colab**, you'll need:
+- A Google account (e.g. a Gmail account).
+
+To run these notebooks **locally**, you'll need:
 
 - Python 3.9
 - Jupyter Notebook/Lab
@@ -53,7 +56,11 @@ jupyter lab
 
 ## Usage notes
 
-All notebooks are created using Google Colab for easy accessibility. Follow the notebooks in numerical order for the best learning experience.
+All notebooks are created using Google Colab for easy accessibility. In order to run them on [Google Colab](https://colab.research.google.com/), you will need to sign in with a Google account. If you are unfamiliar with Google Colab, please watch this [introductory video](https://www.youtube.com/watch?v=inN8seMm7UI). At the top of each notebook, click on the **Open in Colab** button.
+
+<a href="https://colab.research.google.com/github/sg-peytrignet/algeria24-training/blob/main/3_fiber_modeling.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Follow the notebooks in numerical order for the best learning experience.
 
 ## Contributing
 
