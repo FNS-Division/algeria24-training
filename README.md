@@ -28,7 +28,6 @@ To run these notebooks, you'll need:
 
 - Python 3.9
 - Jupyter Notebook/Lab
-- Required Python packages (specified in `environment.yml`)
 
 ## Setup instructions
 
