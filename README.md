@@ -1,8 +1,12 @@
 # algeria24-training
 
-Training materials for Algeria 2024 course focusing on network infrastructure analysis and planning.
+Training materials for an ITU course provided as part of the following event focusing on network infrastructure analysis and planning:
+
+[ITU Regional Workshop Towards Universal and Meaningful Connectivity for Arab Region](https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Pages/Events/2024/MeaningfulConnectivity/MConn.aspx), Algiers – Algeria, 11-12 November 2024
 
 <a href="https://ibb.co/ftvCtyQ"><img src="https://i.ibb.co/3Wz0Wjk/Screenshot-2024-11-11-at-10-01-42.png" alt="Screenshot-2024-11-11-at-10-01-42" border="0"></a>
+
+_Figure: Fiber path simulation in Sidi Bel Abbès, Algeria_
 
 ## Overview
 
@@ -24,7 +28,7 @@ To run these notebooks, you'll need:
 
 - Python 3.9
 - Jupyter Notebook/Lab
-- Required Python packages (specified in environment.yml)
+- Required Python packages (specified in `environment.yml`)
 
 ## Setup instructions
 
@@ -55,6 +59,10 @@ All notebooks are created using Google Colab for easy accessibility. Follow the 
 ## Contributing
 
 Please submit a pull request to contribute to this repository.
+
+## License
+
+Please refer to our [license](LICENSE).
 
 ## Contact
 
