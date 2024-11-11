@@ -1,2 +1,61 @@
 # algeria24-training
-Training materials for Algeria 2024 course
+
+Training materials for Algeria 2024 course focusing on network infrastructure analysis and planning.
+
+<a href="https://ibb.co/ftvCtyQ"><img src="https://i.ibb.co/3Wz0Wjk/Screenshot-2024-11-11-at-10-01-42.png" alt="Screenshot-2024-11-11-at-10-01-42" border="0"></a>
+
+## Overview
+
+This repository contains Jupyter notebooks and supporting materials for analyzing and modeling network infrastructure in Algeria. The course covers data standardization, coverage analysis, fiber modeling, and cost estimation.
+
+## Repository structure
+
+- `0_eda_standardization.ipynb`: Data exploration and standardization procedures
+- `1_proximity_coverage_demand.ipynb`: Analysis of coverage proximity and demand mapping
+- `2_visibility_analysis.ipynb`: Visibility and line-of-sight analysis for network planning
+- `3_fiber_modeling.ipynb`: Fiber network modeling and optimization
+- `4_cost_modelling.ipynb`: Cost estimation and financial modeling
+- `environment.yml`: Conda environment specification
+- `.gitignore`: Git ignore rules for the project
+
+## Pre-requisites
+
+To run these notebooks, you'll need:
+
+- Python 3.9
+- Jupyter Notebook/Lab
+- Required Python packages (specified in environment.yml)
+
+## Setup instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/sg-peytrignet/algeria24-training.git
+cd algeria24-training
+```
+
+2. Create and activate the Conda environment:
+
+```bash
+conda env create -f environment.yml
+conda activate inframaptraining
+```
+
+3. Launch Jupyter:
+
+```bash
+jupyter lab
+```
+
+## Usage notes
+
+All notebooks are created using Google Colab for easy accessibility. Follow the notebooks in numerical order for the best learning experience.
+
+## Contributing
+
+Please submit a pull request to contribute to this repository.
+
+## Contact
+
+For questions or support, please create an issue in this repository or get in touch at fns@itu.int.
