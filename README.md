@@ -80,3 +80,9 @@ Please refer to our [license](LICENSE).
 ## Contact
 
 For questions or support, please create an issue in this repository or get in touch at fns@itu.int.
+
+## Acknowledgements
+
+We would like to thank South Korea's Ministry of Science and ICT for their support.
+
+![sponsor](https://i.ibb.co/tXQqP2S/image.jpg)
