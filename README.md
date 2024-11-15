@@ -8,16 +8,30 @@ Training materials for an ITU course provided as part of the following event foc
 
 _Figure: Fiber path simulation in Sidi Bel Abbès, Algeria_
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Repository Structure](#repository-structure)
+3. [Pre-requisites](#pre-requisites)
+4. [Setup Instructions](#setup-instructions)
+   - [Run Locally](#to-run-notebooks-locally)
+   - [Run on Google Colab](#to-run-notebooks-on-google-colab)
+5. [Usage Notes](#usage-notes)
+6. [Contributing](#contributing)
+7. [Acknowledgements](#acknowledgements)
+8. [Contact](#contact)
+9. [License](#license)
+
 ## Overview
 
 This repository contains links to course slides hosted on a [Google Drive folder](https://drive.google.com/drive/folders/1-4AfC8c9T6JMUHEtFtCyKlLG3kGGERIL?usp=sharing), Jupyter notebooks and supporting materials for 2-day course on infrastructure mapping and analysis.
 
-The course covers an introduction to GIS systems, data standardization, visualizazion, coverage analysis, fiber path modeling, and cost estimation.
+The course covers an introduction to GIS systems, data standardization, visualization, coverage analysis, fiber path modeling, and cost estimation.
 
 ## Repository structure
 
 - **Slides:**
-    - **Day 1: Introduction to geospatial data**
+    - **Day 1: Introduction to geospatial data:** Covers the basics of GIS, Python-based geospatial data processing, and visualizations with KeplerGL.
         - [Introduction to Python and Google Colab](https://docs.google.com/presentation/d/1tEIVCvb1jg2W_CS8A1l6VXxEQgrczHV8/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Visualization with KeplerGL](https://docs.google.com/presentation/d/1_HZsWGcwOvX-Pa4kFjlvza4m0K311EP4/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Introduction to QGIS](https://docs.google.com/presentation/d/15INri2v9S72rlaeca5pQ1jSz4aRHX8na/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
@@ -25,7 +39,7 @@ The course covers an introduction to GIS systems, data standardization, visualiz
         - [Projections and coordinate reference systems](https://docs.google.com/presentation/d/1PO7kVzpYnWp0P-H-1veo10Peu_fwoTwH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Open geospatial data in telecommunications](https://docs.google.com/presentation/d/1nHZnf2F1kje_mxuW1e9UV-G02RBAb79Z/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [ICT data collection and processing](https://docs.google.com/presentation/d/1JBSYWGjTfd06zPZbCO7ZxUogQ3Y1F82C/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
-    - **Day 2: Infrastructure analysis tools**
+    - **Day 2: Infrastructure analysis tools:** Explores advanced concepts such as network modeling, demand analysis, and cost estimation.
         - [Network analysis](https://docs.google.com/presentation/d/1XAxjJScfZkU8KMzbHWv53H_FonTibvBu/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Demand analysis](https://docs.google.com/presentation/d/1f3eJDYS5WBYDcZyzOMgHA8HwQymqxkJH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [ICT infrastructure business planning](https://docs.google.com/presentation/d/1s4rMN5QZQv5r3q9A2nSzQgWoARpcrp8_/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
@@ -39,7 +53,7 @@ The course covers an introduction to GIS systems, data standardization, visualiz
     - [`3_fiber_modeling.ipynb`](3_fiber_modeling.ipynb): Fiber network modeling and optimization
     - [`4_cost_modelling.ipynb`](4_cost_modelling.ipynb): Cost estimation and financial modeling
 
-## Pre-requisites to run notebooks
+## Pre-requisites
 
 To run the Jupyter notebooks on **Google Colab**, you'll need:
 - A Google account (e.g. a Gmail account).
@@ -51,7 +65,7 @@ To run these notebooks **locally**, you'll need:
 
 ## Setup instructions
 
-### To run locally
+### To run notebooks locally
 
 1. Clone the repository:
 
