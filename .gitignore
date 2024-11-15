@@ -5,6 +5,10 @@
 *.png
 *.DS_Store
 *.qgz
+*.tif
+*.zip
+*.qmd
+training-backup/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
