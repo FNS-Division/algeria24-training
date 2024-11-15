@@ -10,21 +10,38 @@ _Figure: Fiber path simulation in Sidi Bel Abbès, Algeria_
 
 ## Overview
 
-This repository contains Jupyter notebooks and supporting materials for analyzing and modeling network infrastructure in Algeria. The course covers data standardization, coverage analysis, fiber modeling, and cost estimation.
+This repository contains links to course slides hosted on a [Google Drive folder](https://drive.google.com/drive/folders/1-4AfC8c9T6JMUHEtFtCyKlLG3kGGERIL?usp=sharing), Jupyter notebooks and supporting materials for 2-day course on infrastructure mapping and analysis.
+
+The course covers an introduction to GIS systems, data standardization, visualizazion, coverage analysis, fiber path modeling, and cost estimation.
 
 ## Repository structure
 
-- `0_eda_standardization.ipynb`: Data exploration and standardization procedures
-- `1_proximity_coverage_demand.ipynb`: Analysis of coverage proximity and demand mapping
-- `2_visibility_analysis.ipynb`: Visibility and line-of-sight analysis for network planning
-- `3_fiber_modeling.ipynb`: Fiber network modeling and optimization
-- `4_cost_modelling.ipynb`: Cost estimation and financial modeling
-- `environment.yml`: Conda environment specification
-- `.gitignore`: Git ignore rules for the project
+- **Slides:**
+    - **Day 1: Introduction to geospatial data**
+        - [Introduction to Python and Google Colab](https://docs.google.com/presentation/d/1tEIVCvb1jg2W_CS8A1l6VXxEQgrczHV8/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Visualization with KeplerGL](https://docs.google.com/presentation/d/1_HZsWGcwOvX-Pa4kFjlvza4m0K311EP4/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Introduction to QGIS](https://docs.google.com/presentation/d/15INri2v9S72rlaeca5pQ1jSz4aRHX8na/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Introduction to working with geospatial data]https://docs.google.com/presentation/d/1xRUdM9k82wZLib_vweeiH3mF4XSlKmQp/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Projections and coordinate reference systems](https://docs.google.com/presentation/d/1PO7kVzpYnWp0P-H-1veo10Peu_fwoTwH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Open geospatial data in telecommunications](https://docs.google.com/presentation/d/1nHZnf2F1kje_mxuW1e9UV-G02RBAb79Z/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [ICT data collection and processing](https://docs.google.com/presentation/d/1JBSYWGjTfd06zPZbCO7ZxUogQ3Y1F82C/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+    - **Day 2: Infrastructure analysis tools**
+        - [Network analysis](https://docs.google.com/presentation/d/1XAxjJScfZkU8KMzbHWv53H_FonTibvBu/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Demand analysis](https://docs.google.com/presentation/d/1f3eJDYS5WBYDcZyzOMgHA8HwQymqxkJH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [ICT infrastructure business planning](https://docs.google.com/presentation/d/1s4rMN5QZQv5r3q9A2nSzQgWoARpcrp8_/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Fiber path analysis](https://docs.google.com/presentation/d/1t1SSuF3vlDaIvWTYrhOB3pWFfSYqPPRo/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Visibility analysis](https://docs.google.com/presentation/d/17q7peog0sNe90KYfLtQJmFi3YP-2iCu0/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Cost analysis](https://docs.google.com/presentation/d/1JvHnThJJXZyLwUU8cfL-0dFC3QUgLBVY/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+- **Jupyter Notebooks:**
+    - `0_eda_standardization.ipynb`: Data exploration and standardization procedures
+    - `1_proximity_coverage_demand.ipynb`: Analysis of coverage proximity and demand mapping
+    - `2_visibility_analysis.ipynb`: Visibility and line-of-sight analysis for network planning
+    - `3_fiber_modeling.ipynb`: Fiber network modeling and optimization
+    - `4_cost_modelling.ipynb`: Cost estimation and financial modeling
 
-## Pre-requisites
+## Pre-requisites to run notebooks
 
-To run these notebooks on **Google Colab**, you'll need:
+To run the Jupyter notebooks on **Google Colab**, you'll need:
 - A Google account (e.g. a Gmail account).
 
 To run these notebooks **locally**, you'll need:
@@ -56,7 +73,7 @@ conda activate inframaptraining
 jupyter lab
 ```
 
-### To run on Google Colab
+### To run notebooks on Google Colab
 
 All notebooks are created using Google Colab for easy accessibility. In order to run them on [Google Colab](https://colab.research.google.com/), you will need to sign in with a Google account. If you are unfamiliar with Google Colab, please watch this [introductory video](https://www.youtube.com/watch?v=inN8seMm7UI).
 

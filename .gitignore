@@ -8,7 +8,6 @@
 *.tif
 *.zip
 *.qmd
-*.pptx
 training-backup/
 
 # Byte-compiled / optimized / DLL files
