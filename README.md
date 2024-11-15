@@ -21,7 +21,7 @@ The course covers an introduction to GIS systems, data standardization, visualiz
         - [Introduction to Python and Google Colab](https://docs.google.com/presentation/d/1tEIVCvb1jg2W_CS8A1l6VXxEQgrczHV8/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Visualization with KeplerGL](https://docs.google.com/presentation/d/1_HZsWGcwOvX-Pa4kFjlvza4m0K311EP4/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Introduction to QGIS](https://docs.google.com/presentation/d/15INri2v9S72rlaeca5pQ1jSz4aRHX8na/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
-        - [Introduction to working with geospatial data]https://docs.google.com/presentation/d/1xRUdM9k82wZLib_vweeiH3mF4XSlKmQp/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Introduction to working with geospatial data](https://docs.google.com/presentation/d/1xRUdM9k82wZLib_vweeiH3mF4XSlKmQp/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Projections and coordinate reference systems](https://docs.google.com/presentation/d/1PO7kVzpYnWp0P-H-1veo10Peu_fwoTwH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Open geospatial data in telecommunications](https://docs.google.com/presentation/d/1nHZnf2F1kje_mxuW1e9UV-G02RBAb79Z/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [ICT data collection and processing](https://docs.google.com/presentation/d/1JBSYWGjTfd06zPZbCO7ZxUogQ3Y1F82C/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
@@ -33,11 +33,11 @@ The course covers an introduction to GIS systems, data standardization, visualiz
         - [Visibility analysis](https://docs.google.com/presentation/d/17q7peog0sNe90KYfLtQJmFi3YP-2iCu0/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Cost analysis](https://docs.google.com/presentation/d/1JvHnThJJXZyLwUU8cfL-0dFC3QUgLBVY/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **Jupyter Notebooks:**
-    - `0_eda_standardization.ipynb`: Data exploration and standardization procedures
-    - `1_proximity_coverage_demand.ipynb`: Analysis of coverage proximity and demand mapping
-    - `2_visibility_analysis.ipynb`: Visibility and line-of-sight analysis for network planning
-    - `3_fiber_modeling.ipynb`: Fiber network modeling and optimization
-    - `4_cost_modelling.ipynb`: Cost estimation and financial modeling
+    - [`0_eda_standardization.ipynb`](0_eda_standardization.ipynb): Data exploration and standardization procedures
+    - [`1_proximity_coverage_demand.ipynb`](1_proximity_coverage_demand.ipynb): Analysis of coverage proximity and demand mapping
+    - [`2_visibility_analysis.ipynb`](2_visibility_analysis.ipynb): Visibility and line-of-sight analysis for network planning
+    - [`3_fiber_modeling.ipynb`](3_fiber_modeling.ipynb): Fiber network modeling and optimization
+    - [`4_cost_modelling.ipynb`](4_cost_modelling.ipynb): Cost estimation and financial modeling
 
 ## Pre-requisites to run notebooks
 
