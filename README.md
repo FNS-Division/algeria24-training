@@ -28,7 +28,7 @@ This repository contains links to course slides hosted on a [Google Drive folder
 
 The course covers an introduction to GIS systems, data standardization, visualization, coverage analysis, fiber path modeling, and cost estimation.
 
-## Repository structure
+## Training agenda
 
 - **Slides:**
     - **Day 1: Introduction to geospatial data:** Covers the basics of GIS, Python-based geospatial data processing, and visualizations with KeplerGL.
