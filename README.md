@@ -39,6 +39,7 @@ The course covers an introduction to GIS systems, data standardization, visualiz
         - [Projections and coordinate reference systems](https://docs.google.com/presentation/d/1PO7kVzpYnWp0P-H-1veo10Peu_fwoTwH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Open geospatial data in telecommunications](https://docs.google.com/presentation/d/1nHZnf2F1kje_mxuW1e9UV-G02RBAb79Z/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [ICT data collection and processing](https://docs.google.com/presentation/d/1JBSYWGjTfd06zPZbCO7ZxUogQ3Y1F82C/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Quiz](https://www.mentimeter.com/app/presentation/alnt3kcapjfsshbb5vghyhfkdhv4jt7d/edit?source=share-invite-modal)
     - **Day 2: Infrastructure analysis tools:** Explores advanced concepts such as network modeling, demand analysis, and cost estimation.
         - [Network analysis](https://docs.google.com/presentation/d/1XAxjJScfZkU8KMzbHWv53H_FonTibvBu/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Demand analysis](https://docs.google.com/presentation/d/1f3eJDYS5WBYDcZyzOMgHA8HwQymqxkJH/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
@@ -46,6 +47,7 @@ The course covers an introduction to GIS systems, data standardization, visualiz
         - [Fiber path analysis](https://docs.google.com/presentation/d/1t1SSuF3vlDaIvWTYrhOB3pWFfSYqPPRo/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Visibility analysis](https://docs.google.com/presentation/d/17q7peog0sNe90KYfLtQJmFi3YP-2iCu0/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
         - [Cost analysis](https://docs.google.com/presentation/d/1JvHnThJJXZyLwUU8cfL-0dFC3QUgLBVY/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+        - [Quiz](https://www.mentimeter.com/app/presentation/alp66s3gqeyxokxjepj4gdno2duwmc38/edit?source=share-invite-modal)
 - **Jupyter Notebooks:**
     - [`0_eda_standardization.ipynb`](0_eda_standardization.ipynb): Data exploration and standardization procedures
     - [`1_proximity_coverage_demand.ipynb`](1_proximity_coverage_demand.ipynb): Analysis of coverage proximity and demand mapping
